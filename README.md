@@ -1,6 +1,6 @@
 # Slider
 
-let defaults = {
+       let defaults = {
             swipe: false, //define if swipe functions will work
             arrows: false, //define if slider will have arrows
             autoplay: true, //if true, will play slider
