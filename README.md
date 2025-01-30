@@ -1,5 +1,7 @@
 # Slider
 
+Used on https://www.buscaonibus.com.br/
+
        let defaults = {
             swipe: false, //define if swipe functions will work
             arrows: false, //define if slider will have arrows
